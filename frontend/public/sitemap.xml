@@ -1,0 +1,1818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc></loc>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="" />
+  </url>
+  <url>
+    <loc>/epaper</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/epaper" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/epaper" />
+  </url>
+  <url>
+    <loc>/videos</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/videos" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/videos" />
+  </url>
+  <url>
+    <loc>/?category=funding</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/?category=startups</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/?category=vc</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/?category=ipo</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/?category=tech</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/?category=fintech</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/?category=saas</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/?category=deeptech</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/?category=d2c</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/?category=climate</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/?category=policy</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/?category=business</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/news/593bf83a-440d-44c1-b94b-605e4528ebd7</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>OpenAI preparing to file for IPO in coming days or weeks: Report</news:title>
+      <news:keywords>IPO & Markets</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/593bf83a-440d-44c1-b94b-605e4528ebd7" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/593bf83a-440d-44c1-b94b-605e4528ebd7" />
+  </url>
+  <url>
+    <loc>/news/08c7e8df-fe7e-4440-99d3-fa1c0d515e7f</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Bain Capital announces final close of Asia Fund VI at $10.5 Bn</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/08c7e8df-fe7e-4440-99d3-fa1c0d515e7f" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/08c7e8df-fe7e-4440-99d3-fa1c0d515e7f" />
+  </url>
+  <url>
+    <loc>/news/2acfa996-b8f6-4f2c-8ebd-6be89a8cf3bf</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Exclusive: Country Delight raises debt from Alteria Capital</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/2acfa996-b8f6-4f2c-8ebd-6be89a8cf3bf" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/2acfa996-b8f6-4f2c-8ebd-6be89a8cf3bf" />
+  </url>
+  <url>
+    <loc>/news/7e73e2c8-4e67-43cc-8830-50377124ee4d</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Moglix appoints former Symphony CEO Amit Kumar as MD and CBO</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/7e73e2c8-4e67-43cc-8830-50377124ee4d" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/7e73e2c8-4e67-43cc-8830-50377124ee4d" />
+  </url>
+  <url>
+    <loc>/news/d9538116-5262-4c04-b08b-b8fad4421a19</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>BlackBuck reports Rs 185 Cr revenue and Rs 66 Cr profit in Q4 FY2</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/d9538116-5262-4c04-b08b-b8fad4421a19" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/d9538116-5262-4c04-b08b-b8fad4421a19" />
+  </url>
+  <url>
+    <loc>/news/85d778fb-c31b-40fd-9c26-747e0e528ab1</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Oxyzo to acquire GoldenPi, enters retail fixed income investment </news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/85d778fb-c31b-40fd-9c26-747e0e528ab1" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/85d778fb-c31b-40fd-9c26-747e0e528ab1" />
+  </url>
+  <url>
+    <loc>/news/2d948d45-10d7-4559-a72c-3c912347d6e6</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>MapMyIndia records Rs 145 Cr revenue and Rs 51 Cr profit in Q4 FY</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/2d948d45-10d7-4559-a72c-3c912347d6e6" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/2d948d45-10d7-4559-a72c-3c912347d6e6" />
+  </url>
+  <url>
+    <loc>/news/26682f98-7fe9-41e6-ac66-cacf3779dbb8</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Former Solethreads CEO Sumant Kakaria joins Famy Aspire Capital a</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/26682f98-7fe9-41e6-ac66-cacf3779dbb8" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/26682f98-7fe9-41e6-ac66-cacf3779dbb8" />
+  </url>
+  <url>
+    <loc>/news/23a6e872-2956-4d37-9df4-7ca5dbc36692</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>upGrad valued at $1.7 Bn in fresh round; provisional FY26 financi</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/23a6e872-2956-4d37-9df4-7ca5dbc36692" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/23a6e872-2956-4d37-9df4-7ca5dbc36692" />
+  </url>
+  <url>
+    <loc>/news/556cb022-7c22-4af8-afe1-1cd305f1a46d</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>jUMPP enters insurance distribution after securing IRDAI approval</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/556cb022-7c22-4af8-afe1-1cd305f1a46d" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/556cb022-7c22-4af8-afe1-1cd305f1a46d" />
+  </url>
+  <url>
+    <loc>/news/03c4de7d-be78-4c07-85a0-b0b058d3677b</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Ola Electric revenue falls 57% to Rs 265 Cr in Q4 FY26; plans QIP</news:title>
+      <news:keywords>IPO & Markets</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/03c4de7d-be78-4c07-85a0-b0b058d3677b" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/03c4de7d-be78-4c07-85a0-b0b058d3677b" />
+  </url>
+  <url>
+    <loc>/news/0ab20c6c-c24b-4c20-8a6a-400070a89768</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Razorpay announces #39;UPI Switch#39; in partnership with Airtel </news:title>
+      <news:keywords>IPO & Markets</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/0ab20c6c-c24b-4c20-8a6a-400070a89768" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/0ab20c6c-c24b-4c20-8a6a-400070a89768" />
+  </url>
+  <url>
+    <loc>/news/a00539b2-f54f-4818-a424-bbf8ad96bbf4</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Amagi swings to black in first results since listing, posts Q4 ne</news:title>
+      <news:keywords>Business</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/a00539b2-f54f-4818-a424-bbf8ad96bbf4" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/a00539b2-f54f-4818-a424-bbf8ad96bbf4" />
+  </url>
+  <url>
+    <loc>/news/e8e5cb1b-b9db-4f45-ac83-243742b34b11</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Peak XV joins UK infrastructure startup Primer’s $100 million fun</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/e8e5cb1b-b9db-4f45-ac83-243742b34b11" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/e8e5cb1b-b9db-4f45-ac83-243742b34b11" />
+  </url>
+  <url>
+    <loc>/news/7105eec4-7ec4-4a61-a23a-84f86f6a939c</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Investment firm Oister Global launches Rs 500 crore ACE Fund III</news:title>
+      <news:keywords>Business</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/7105eec4-7ec4-4a61-a23a-84f86f6a939c" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/7105eec4-7ec4-4a61-a23a-84f86f6a939c" />
+  </url>
+  <url>
+    <loc>/news/6bead400-5152-4cfd-b5e2-b14f34e1197a</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Lenskart Q4 revenue jumps 46% on volume expansion</news:title>
+      <news:keywords>Business</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/6bead400-5152-4cfd-b5e2-b14f34e1197a" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/6bead400-5152-4cfd-b5e2-b14f34e1197a" />
+  </url>
+  <url>
+    <loc>/news/d7ce47ff-a66d-4786-8c8d-ef36098c4923</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>OpenAI to invest in YC startups using $2 million worth of tokens;</news:title>
+      <news:keywords>Business</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/d7ce47ff-a66d-4786-8c8d-ef36098c4923" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/d7ce47ff-a66d-4786-8c8d-ef36098c4923" />
+  </url>
+  <url>
+    <loc>/news/0d19840b-2756-44ab-b953-53476017aefe</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Ola Electric Q4 loss narrows 42.5% to Rs 500 crore, CEO Aggarwal </news:title>
+      <news:keywords>Business</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/0d19840b-2756-44ab-b953-53476017aefe" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/0d19840b-2756-44ab-b953-53476017aefe" />
+  </url>
+  <url>
+    <loc>/news/34daa059-de9d-485f-9ff8-c4b7efedb913</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Not all startups are built the same. Which category defines yours</news:title>
+      <news:keywords>Business</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/34daa059-de9d-485f-9ff8-c4b7efedb913" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/34daa059-de9d-485f-9ff8-c4b7efedb913" />
+  </url>
+  <url>
+    <loc>/news/53c6c6ab-9fa2-4a27-96e2-857ae515b95f</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Google I/O 2026: It’s AI everywhere, from Gemini upgrades to smar</news:title>
+      <news:keywords>Business</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/53c6c6ab-9fa2-4a27-96e2-857ae515b95f" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/53c6c6ab-9fa2-4a27-96e2-857ae515b95f" />
+  </url>
+  <url>
+    <loc>/news/3a1788db-843b-47e7-a281-7af115454961</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Nykaa seeks to include Meta in music copyright fight with Zee</news:title>
+      <news:keywords>Business</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/3a1788db-843b-47e7-a281-7af115454961" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/3a1788db-843b-47e7-a281-7af115454961" />
+  </url>
+  <url>
+    <loc>/news/4f302a96-c19b-46e7-9cca-61beeb277205</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Lenskart, Ola’s Q4 scorecards; Visa maze for laid-off techies</news:title>
+      <news:keywords>Business</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/4f302a96-c19b-46e7-9cca-61beeb277205" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/4f302a96-c19b-46e7-9cca-61beeb277205" />
+  </url>
+  <url>
+    <loc>/news/53f3871d-2964-45e4-bf78-662f0a05d355</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>ETtech Infographic: Reliance’s startup roll-up: hits &amp;amp; misses</news:title>
+      <news:keywords>Business</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/53f3871d-2964-45e4-bf78-662f0a05d355" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/53f3871d-2964-45e4-bf78-662f0a05d355" />
+  </url>
+  <url>
+    <loc>/news/4da1bd80-2d98-4b2b-8843-a8f4fe856018</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>CCI okays Blackstone, other investors' proposal to acquire stake </news:title>
+      <news:keywords>Business</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/4da1bd80-2d98-4b2b-8843-a8f4fe856018" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/4da1bd80-2d98-4b2b-8843-a8f4fe856018" />
+  </url>
+  <url>
+    <loc>/news/a496c1ad-71a5-4ac2-aee4-88e30ef7e109</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Lenskart to step up AI push in FY27, targets scale-up in eye test</news:title>
+      <news:keywords>Tech</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/a496c1ad-71a5-4ac2-aee4-88e30ef7e109" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/a496c1ad-71a5-4ac2-aee4-88e30ef7e109" />
+  </url>
+  <url>
+    <loc>/news/6c71c6f8-84d2-4fae-abd7-47ad0dd38396</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Piper Serica launches Rs 800 crore Bharat Tech Fund for investmen</news:title>
+      <news:keywords>Tech</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/6c71c6f8-84d2-4fae-abd7-47ad0dd38396" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/6c71c6f8-84d2-4fae-abd7-47ad0dd38396" />
+  </url>
+  <url>
+    <loc>/news/ed3bb4de-7302-4a52-8251-b31f61a1939f</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Meta CEO tells employees he does not expect more company-wide lay</news:title>
+      <news:keywords>Business</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/ed3bb4de-7302-4a52-8251-b31f61a1939f" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/ed3bb4de-7302-4a52-8251-b31f61a1939f" />
+  </url>
+  <url>
+    <loc>/news/b19979bf-9057-47cc-a00d-b36539df2627</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Mercury's latest funding round values it at $5.2 billion</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/b19979bf-9057-47cc-a00d-b36539df2627" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/b19979bf-9057-47cc-a00d-b36539df2627" />
+  </url>
+  <url>
+    <loc>/news/c96a0673-748a-468d-834a-4ef9b01e9be1</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>ELV rules make auto sector non-compliant; FY26 scrap target misse</news:title>
+      <news:keywords>Business</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/c96a0673-748a-468d-834a-4ef9b01e9be1" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/c96a0673-748a-468d-834a-4ef9b01e9be1" />
+  </url>
+  <url>
+    <loc>/news/af274398-963a-428a-9cda-1e2f3a860787</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Andaah targets Rs150 crore ARR within two years of operations; ex</news:title>
+      <news:keywords>Business</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/af274398-963a-428a-9cda-1e2f3a860787" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/af274398-963a-428a-9cda-1e2f3a860787" />
+  </url>
+  <url>
+    <loc>/news/6637b219-382a-4e02-9594-30afe0790c11</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Instafix raises Rs 7.55 crore in a pre-seed round co-led by Titan</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/6637b219-382a-4e02-9594-30afe0790c11" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/6637b219-382a-4e02-9594-30afe0790c11" />
+  </url>
+  <url>
+    <loc>/news/67a26bbf-9768-49ac-a6ca-f66684a7818f</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Hiring precision, not speed, defines growth for fintechs that bui</news:title>
+      <news:keywords>Fintech</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/67a26bbf-9768-49ac-a6ca-f66684a7818f" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/67a26bbf-9768-49ac-a6ca-f66684a7818f" />
+  </url>
+  <url>
+    <loc>/news/b20cedbf-e683-42b6-bd2c-bdf2384135dc</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>HAB Pharma merges Signature Phytochemicals, eyes Rs3,000 crore re</news:title>
+      <news:keywords>Business</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/b20cedbf-e683-42b6-bd2c-bdf2384135dc" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/b20cedbf-e683-42b6-bd2c-bdf2384135dc" />
+  </url>
+  <url>
+    <loc>/news/d9f60a06-1fa5-4a4a-a857-0742ce7a410b</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Startup news and updates: daily roundup (May 19, 2026)</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/d9f60a06-1fa5-4a4a-a857-0742ce7a410b" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/d9f60a06-1fa5-4a4a-a857-0742ce7a410b" />
+  </url>
+  <url>
+    <loc>/news/35dce5ee-84b4-45e6-887c-bf81f3decef1</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Startup news and updates: daily roundup (May 20, 2026)</news:title>
+      <news:keywords>Tech</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/35dce5ee-84b4-45e6-887c-bf81f3decef1" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/35dce5ee-84b4-45e6-887c-bf81f3decef1" />
+  </url>
+  <url>
+    <loc>/news/1e455145-f42d-4d45-a5b4-0fa68f03e22c</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>This D2C brand is bringing affordable premium ice cream to India</news:title>
+      <news:keywords>Tech</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/1e455145-f42d-4d45-a5b4-0fa68f03e22c" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/1e455145-f42d-4d45-a5b4-0fa68f03e22c" />
+  </url>
+  <url>
+    <loc>/news/a2b78031-2b53-47ad-87e8-2f66f81c3da1</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Wingreens acquires Safe Harvest, bets on integrated clean-label p</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/a2b78031-2b53-47ad-87e8-2f66f81c3da1" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/a2b78031-2b53-47ad-87e8-2f66f81c3da1" />
+  </url>
+  <url>
+    <loc>/news/39b0222b-c075-4445-bb38-af310c5d58ab</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Cybersecurity focused AI startup Exaforce raises $125 M in Series</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/39b0222b-c075-4445-bb38-af310c5d58ab" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/39b0222b-c075-4445-bb38-af310c5d58ab" />
+  </url>
+  <url>
+    <loc>/news/55b1770b-e4c6-465a-9987-fbf719062a4b</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Rapido raises $240M in primary funding led by Prosus at $3B valua</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/55b1770b-e4c6-465a-9987-fbf719062a4b" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/55b1770b-e4c6-465a-9987-fbf719062a4b" />
+  </url>
+  <url>
+    <loc>/news/798b6aac-f22a-4842-9bb1-1633411e8621</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Consumer electronics design and manufacturing firm Mekr raises Rs</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/798b6aac-f22a-4842-9bb1-1633411e8621" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/798b6aac-f22a-4842-9bb1-1633411e8621" />
+  </url>
+  <url>
+    <loc>/news/6633a422-e9e5-4080-bcc6-d33804e04d89</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>[Weekly funding roundup May 2-8] VC inflow declines due to lower </news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/6633a422-e9e5-4080-bcc6-d33804e04d89" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/6633a422-e9e5-4080-bcc6-d33804e04d89" />
+  </url>
+  <url>
+    <loc>/news/013222c6-c086-46bc-8199-4728abf4a981</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Ecofy raises $15M from Mirova to expand green financing portfolio</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/013222c6-c086-46bc-8199-4728abf4a981" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/013222c6-c086-46bc-8199-4728abf4a981" />
+  </url>
+  <url>
+    <loc>/news/efffab43-ceae-47bb-96ce-92b4b4c327cd</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Sindhuja Microcredit raises $5M in pre-Series D round</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/efffab43-ceae-47bb-96ce-92b4b4c327cd" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/efffab43-ceae-47bb-96ce-92b4b4c327cd" />
+  </url>
+  <url>
+    <loc>/news/8ba36c9d-1c3c-4b3f-877e-76b51a82c89c</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>[Weekly funding roundup May 9-15] Rapido deal lifts the VC inflow</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/8ba36c9d-1c3c-4b3f-877e-76b51a82c89c" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/8ba36c9d-1c3c-4b3f-877e-76b51a82c89c" />
+  </url>
+  <url>
+    <loc>/news/bf7b0627-6bbe-4bd5-a18b-15fc51624f7b</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>D2C Insider to launch Rs 150 Cr VC fund</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/bf7b0627-6bbe-4bd5-a18b-15fc51624f7b" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/bf7b0627-6bbe-4bd5-a18b-15fc51624f7b" />
+  </url>
+  <url>
+    <loc>/news/e2da5b23-e291-4ec7-a78e-2040e670529d</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>Pronto extends series B to $45M at $200M valuation</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/e2da5b23-e291-4ec7-a78e-2040e670529d" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/e2da5b23-e291-4ec7-a78e-2040e670529d" />
+  </url>
+  <url>
+    <loc>/news/403a1e65-eb0b-4538-a1b1-e1c19ddea8b6</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>India’s Employee Retention Problem Isn’t Fixed, Here’s What Actua</news:title>
+      <news:keywords>Tech</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/403a1e65-eb0b-4538-a1b1-e1c19ddea8b6" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/403a1e65-eb0b-4538-a1b1-e1c19ddea8b6" />
+  </url>
+  <url>
+    <loc>/news/139b5e2f-ac02-450b-bda7-01ecf9e9534d</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>AI in HR: 78 Million Jobs Ahead, But India Faces a Massive Reskil</news:title>
+      <news:keywords>Tech</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/139b5e2f-ac02-450b-bda7-01ecf9e9534d" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/139b5e2f-ac02-450b-bda7-01ecf9e9534d" />
+  </url>
+  <url>
+    <loc>/news/b267039d-e65b-4d22-940e-bfeb09ea7271</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20</news:publication_date>
+      <news:title>PoSH Complaints Are Surging in India’s Tech Sector, But Complianc</news:title>
+      <news:keywords>Business</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/b267039d-e65b-4d22-940e-bfeb09ea7271" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/b267039d-e65b-4d22-940e-bfeb09ea7271" />
+  </url>
+  <url>
+    <loc>/news/237f3252-1296-4a99-aa4b-d1e644f8f3be</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19</news:publication_date>
+      <news:title>Google kicks off I/O conference with AI upgrades for coders, cons</news:title>
+      <news:keywords>IPO & Markets</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/237f3252-1296-4a99-aa4b-d1e644f8f3be" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/237f3252-1296-4a99-aa4b-d1e644f8f3be" />
+  </url>
+  <url>
+    <loc>/news/80c89a4c-c31e-4bc4-a921-0d50bd960e6b</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19</news:publication_date>
+      <news:title>Zuckerberg reshapes Meta around AI as company moves thousands of </news:title>
+      <news:keywords>Tech</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/80c89a4c-c31e-4bc4-a921-0d50bd960e6b" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/80c89a4c-c31e-4bc4-a921-0d50bd960e6b" />
+  </url>
+  <url>
+    <loc>/news/3731e00e-fd89-45e1-a631-a53ab82ba249</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Mint Street</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19</news:publication_date>
+      <news:title>Daily Indian Funding Roundup &amp; Key News - 19 May 2026: ONO Bags $</news:title>
+      <news:keywords>Funding</news:keywords>
+    </news:news>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/3731e00e-fd89-45e1-a631-a53ab82ba249" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/3731e00e-fd89-45e1-a631-a53ab82ba249" />
+  </url>
+  <url>
+    <loc>/news/43b464ab-c120-4f6c-a7fd-a88b6eba55fa</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/43b464ab-c120-4f6c-a7fd-a88b6eba55fa" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/43b464ab-c120-4f6c-a7fd-a88b6eba55fa" />
+  </url>
+  <url>
+    <loc>/news/9212bd73-f502-4400-8383-fad52e961119</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/9212bd73-f502-4400-8383-fad52e961119" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/9212bd73-f502-4400-8383-fad52e961119" />
+  </url>
+  <url>
+    <loc>/news/161a211e-5e7c-4b4c-8737-0bded539b546</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/161a211e-5e7c-4b4c-8737-0bded539b546" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/161a211e-5e7c-4b4c-8737-0bded539b546" />
+  </url>
+  <url>
+    <loc>/news/openai-2026-funding-round</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/openai-2026-funding-round" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/openai-2026-funding-round" />
+  </url>
+  <url>
+    <loc>/news/8d5caec7-cb48-474c-892f-9ffef272cbcf</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/8d5caec7-cb48-474c-892f-9ffef272cbcf" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/8d5caec7-cb48-474c-892f-9ffef272cbcf" />
+  </url>
+  <url>
+    <loc>/news/tata-electronics-dholera-fab-2026</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/tata-electronics-dholera-fab-2026" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/tata-electronics-dholera-fab-2026" />
+  </url>
+  <url>
+    <loc>/news/nse-listing-talks-2026</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/nse-listing-talks-2026" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/nse-listing-talks-2026" />
+  </url>
+  <url>
+    <loc>/news/eeb8c056-caa6-44c5-a34e-7254328b9121</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/eeb8c056-caa6-44c5-a34e-7254328b9121" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/eeb8c056-caa6-44c5-a34e-7254328b9121" />
+  </url>
+  <url>
+    <loc>/news/blume-fund-v-2026</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/blume-fund-v-2026" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/blume-fund-v-2026" />
+  </url>
+  <url>
+    <loc>/news/perplexity-search-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/perplexity-search-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/perplexity-search-2025" />
+  </url>
+  <url>
+    <loc>/news/micron-sanand-first-chips-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/micron-sanand-first-chips-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/micron-sanand-first-chips-2025" />
+  </url>
+  <url>
+    <loc>/news/c008ac13-83f2-4f2d-baac-2d820ffa86ca</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/c008ac13-83f2-4f2d-baac-2d820ffa86ca" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/c008ac13-83f2-4f2d-baac-2d820ffa86ca" />
+  </url>
+  <url>
+    <loc>/news/wakefit-drhp-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/wakefit-drhp-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/wakefit-drhp-2025" />
+  </url>
+  <url>
+    <loc>/news/niramai-thermal-screening-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/niramai-thermal-screening-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/niramai-thermal-screening-2025" />
+  </url>
+  <url>
+    <loc>/news/anthropic-series-f-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/anthropic-series-f-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/anthropic-series-f-2025" />
+  </url>
+  <url>
+    <loc>/news/country-delight-series-e-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/country-delight-series-e-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/country-delight-series-e-2025" />
+  </url>
+  <url>
+    <loc>/news/klarna-listing-aftermath-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/klarna-listing-aftermath-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/klarna-listing-aftermath-2025" />
+  </url>
+  <url>
+    <loc>/news/zoho-ai-stack-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/zoho-ai-stack-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/zoho-ai-stack-2025" />
+  </url>
+  <url>
+    <loc>/news/razorpay-redomicile-india-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/razorpay-redomicile-india-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/razorpay-redomicile-india-2025" />
+  </url>
+  <url>
+    <loc>/news/temu-india-d2c-pressure-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/temu-india-d2c-pressure-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/temu-india-d2c-pressure-2025" />
+  </url>
+  <url>
+    <loc>/news/xai-grok-data-centre-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/xai-grok-data-centre-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/xai-grok-data-centre-2025" />
+  </url>
+  <url>
+    <loc>/news/byd-india-entry-talks-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/byd-india-entry-talks-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/byd-india-entry-talks-2025" />
+  </url>
+  <url>
+    <loc>/news/skyroot-vikram-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/skyroot-vikram-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/skyroot-vikram-2025" />
+  </url>
+  <url>
+    <loc>/news/cursor-anysphere-valuation-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/cursor-anysphere-valuation-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/cursor-anysphere-valuation-2025" />
+  </url>
+  <url>
+    <loc>/news/sebi-startup-listings-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/sebi-startup-listings-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/sebi-startup-listings-2025" />
+  </url>
+  <url>
+    <loc>/news/krutrim-ola-foundation-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/krutrim-ola-foundation-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/krutrim-ola-foundation-2025" />
+  </url>
+  <url>
+    <loc>/news/temasek-india-allocation-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/temasek-india-allocation-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/temasek-india-allocation-2025" />
+  </url>
+  <url>
+    <loc>/news/databricks-pre-ipo-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/databricks-pre-ipo-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/databricks-pre-ipo-2025" />
+  </url>
+  <url>
+    <loc>/news/ofbusiness-pre-ipo-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/ofbusiness-pre-ipo-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/ofbusiness-pre-ipo-2025" />
+  </url>
+  <url>
+    <loc>/news/pif-india-platform-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/pif-india-platform-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/pif-india-platform-2025" />
+  </url>
+  <url>
+    <loc>/news/hygenco-green-hydrogen-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/hygenco-green-hydrogen-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/hygenco-green-hydrogen-2025" />
+  </url>
+  <url>
+    <loc>/news/hippocratic-ai-clinical-agents-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/hippocratic-ai-clinical-agents-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/hippocratic-ai-clinical-agents-2025" />
+  </url>
+  <url>
+    <loc>/news/huggingface-enterprise-pivot-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/huggingface-enterprise-pivot-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/huggingface-enterprise-pivot-2025" />
+  </url>
+  <url>
+    <loc>/news/hyderabad-deeptech-thub-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/hyderabad-deeptech-thub-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/hyderabad-deeptech-thub-2025" />
+  </url>
+  <url>
+    <loc>/news/ghazal-alagh-mamaearth-post-ipo-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/ghazal-alagh-mamaearth-post-ipo-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/ghazal-alagh-mamaearth-post-ipo-2025" />
+  </url>
+  <url>
+    <loc>/news/ather-ipo-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/ather-ipo-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/ather-ipo-2025" />
+  </url>
+  <url>
+    <loc>/news/sarvam-ai-sovereign-model-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/sarvam-ai-sovereign-model-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/sarvam-ai-sovereign-model-2025" />
+  </url>
+  <url>
+    <loc>/news/ondc-scale-up-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/ondc-scale-up-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/ondc-scale-up-2025" />
+  </url>
+  <url>
+    <loc>/news/recur-club-series-a-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/recur-club-series-a-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/recur-club-series-a-2025" />
+  </url>
+  <url>
+    <loc>/news/tata-bigbasket-quick-commerce-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/tata-bigbasket-quick-commerce-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/tata-bigbasket-quick-commerce-2025" />
+  </url>
+  <url>
+    <loc>/news/shein-ipo-pivot-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/shein-ipo-pivot-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/shein-ipo-pivot-2025" />
+  </url>
+  <url>
+    <loc>/news/ideaforge-defence-orders-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/ideaforge-defence-orders-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/ideaforge-defence-orders-2025" />
+  </url>
+  <url>
+    <loc>/news/atomberg-ceiling-fan-bet-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/atomberg-ceiling-fan-bet-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/atomberg-ceiling-fan-bet-2025" />
+  </url>
+  <url>
+    <loc>/news/stripe-secondary-tender-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/stripe-secondary-tender-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/stripe-secondary-tender-2025" />
+  </url>
+  <url>
+    <loc>/news/tata-digital-restructure-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/tata-digital-restructure-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/tata-digital-restructure-2025" />
+  </url>
+  <url>
+    <loc>/news/account-aggregator-consent-flows-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/account-aggregator-consent-flows-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/account-aggregator-consent-flows-2025" />
+  </url>
+  <url>
+    <loc>/news/urban-company-pre-ipo-secondary-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/urban-company-pre-ipo-secondary-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/urban-company-pre-ipo-secondary-2025" />
+  </url>
+  <url>
+    <loc>/news/log9-battery-pivot-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/log9-battery-pivot-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/log9-battery-pivot-2025" />
+  </url>
+  <url>
+    <loc>/news/boat-ipo-refile-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/boat-ipo-refile-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/boat-ipo-refile-2025" />
+  </url>
+  <url>
+    <loc>/news/pli-2-electronics-review-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/pli-2-electronics-review-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/pli-2-electronics-review-2025" />
+  </url>
+  <url>
+    <loc>/news/aye-finance-pre-ipo-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/aye-finance-pre-ipo-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/aye-finance-pre-ipo-2025" />
+  </url>
+  <url>
+    <loc>/news/grab-gojek-sea-consolidation-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/grab-gojek-sea-consolidation-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/grab-gojek-sea-consolidation-2025" />
+  </url>
+  <url>
+    <loc>/news/ifsca-giftcity-fund-rules-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/ifsca-giftcity-fund-rules-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/ifsca-giftcity-fund-rules-2025" />
+  </url>
+  <url>
+    <loc>/news/ola-electric-service-network-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/ola-electric-service-network-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/ola-electric-service-network-2025" />
+  </url>
+  <url>
+    <loc>/news/elevenlabs-series-c-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/elevenlabs-series-c-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/elevenlabs-series-c-2025" />
+  </url>
+  <url>
+    <loc>/news/blusmart-fleet-model-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/blusmart-fleet-model-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/blusmart-fleet-model-2025" />
+  </url>
+  <url>
+    <loc>/news/pixxel-firefly-constellation-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/pixxel-firefly-constellation-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/pixxel-firefly-constellation-2025" />
+  </url>
+  <url>
+    <loc>/news/cars24-debt-stack-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/cars24-debt-stack-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/cars24-debt-stack-2025" />
+  </url>
+  <url>
+    <loc>/news/dpdp-rules-2025</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/dpdp-rules-2025" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/dpdp-rules-2025" />
+  </url>
+  <url>
+    <loc>/news/runway-sora-video-race-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/runway-sora-video-race-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/runway-sora-video-race-2024" />
+  </url>
+  <url>
+    <loc>/news/rbi-default-loss-guarantee-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/rbi-default-loss-guarantee-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/rbi-default-loss-guarantee-2024" />
+  </url>
+  <url>
+    <loc>/news/sridhar-vembu-zoho-tenkasi-profile-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/sridhar-vembu-zoho-tenkasi-profile-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/sridhar-vembu-zoho-tenkasi-profile-2024" />
+  </url>
+  <url>
+    <loc>/news/slice-merger-bridge-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/slice-merger-bridge-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/slice-merger-bridge-2024" />
+  </url>
+  <url>
+    <loc>/news/bytedance-india-stranded-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/bytedance-india-stranded-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/bytedance-india-stranded-2024" />
+  </url>
+  <url>
+    <loc>/news/indore-tier2-d2c-cluster-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/indore-tier2-d2c-cluster-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/indore-tier2-d2c-cluster-2024" />
+  </url>
+  <url>
+    <loc>/news/aadit-palicha-zepto-profile-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/aadit-palicha-zepto-profile-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/aadit-palicha-zepto-profile-2024" />
+  </url>
+  <url>
+    <loc>/news/freshworks-margin-shift-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/freshworks-margin-shift-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/freshworks-margin-shift-2024" />
+  </url>
+  <url>
+    <loc>/news/reliance-disney-star-merger-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/reliance-disney-star-merger-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/reliance-disney-star-merger-2024" />
+  </url>
+  <url>
+    <loc>/news/meesho-profitability-fy24</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/meesho-profitability-fy24" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/meesho-profitability-fy24" />
+  </url>
+  <url>
+    <loc>/news/mamaearth-anniversary-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/mamaearth-anniversary-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/mamaearth-anniversary-2024" />
+  </url>
+  <url>
+    <loc>/news/paytm-pivot-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/paytm-pivot-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/paytm-pivot-2024" />
+  </url>
+  <url>
+    <loc>/news/captain-fresh-seafood-roll-up-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/captain-fresh-seafood-roll-up-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/captain-fresh-seafood-roll-up-2024" />
+  </url>
+  <url>
+    <loc>/news/euler-motors-commercial-ev-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/euler-motors-commercial-ev-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/euler-motors-commercial-ev-2024" />
+  </url>
+  <url>
+    <loc>/news/tabby-tamara-mena-bnpl-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/tabby-tamara-mena-bnpl-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/tabby-tamara-mena-bnpl-2024" />
+  </url>
+  <url>
+    <loc>/news/licious-secondary-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/licious-secondary-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/licious-secondary-2024" />
+  </url>
+  <url>
+    <loc>/news/gst-online-gaming-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/gst-online-gaming-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/gst-online-gaming-2024" />
+  </url>
+  <url>
+    <loc>/news/cerebras-ipo-filing-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/cerebras-ipo-filing-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/cerebras-ipo-filing-2024" />
+  </url>
+  <url>
+    <loc>/news/swiggy-ipo-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/swiggy-ipo-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/swiggy-ipo-2024" />
+  </url>
+  <url>
+    <loc>/news/arm-listing-india-design-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/arm-listing-india-design-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/arm-listing-india-design-2024" />
+  </url>
+  <url>
+    <loc>/news/mindgrove-secure-iot-soc-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/mindgrove-secure-iot-soc-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/mindgrove-secure-iot-soc-2024" />
+  </url>
+  <url>
+    <loc>/news/spinny-follow-on-tiger-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/spinny-follow-on-tiger-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/spinny-follow-on-tiger-2024" />
+  </url>
+  <url>
+    <loc>/news/country-delight-subscription-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/country-delight-subscription-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/country-delight-subscription-2024" />
+  </url>
+  <url>
+    <loc>/news/zepto-series-g-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/zepto-series-g-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/zepto-series-g-2024" />
+  </url>
+  <url>
+    <loc>/news/nithin-kamath-zerodha-after-stroke-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/nithin-kamath-zerodha-after-stroke-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/nithin-kamath-zerodha-after-stroke-2024" />
+  </url>
+  <url>
+    <loc>/news/firstcry-listing-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/firstcry-listing-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/firstcry-listing-2024" />
+  </url>
+  <url>
+    <loc>/news/ola-electric-listing-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/ola-electric-listing-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/ola-electric-listing-2024" />
+  </url>
+  <url>
+    <loc>/news/mensa-brands-down-round-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/mensa-brands-down-round-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/mensa-brands-down-round-2024" />
+  </url>
+  <url>
+    <loc>/news/angel-tax-repeal-followthrough-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/angel-tax-repeal-followthrough-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/angel-tax-repeal-followthrough-2024" />
+  </url>
+  <url>
+    <loc>/news/byjus-collapse-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/byjus-collapse-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/byjus-collapse-2024" />
+  </url>
+  <url>
+    <loc>/news/lenskart-secondary-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/lenskart-secondary-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/lenskart-secondary-2024" />
+  </url>
+  <url>
+    <loc>/news/cred-down-round-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/cred-down-round-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/cred-down-round-2024" />
+  </url>
+  <url>
+    <loc>/news/mistral-european-bet-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/mistral-european-bet-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/mistral-european-bet-2024" />
+  </url>
+  <url>
+    <loc>/news/peak-xv-split-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/peak-xv-split-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/peak-xv-split-2024" />
+  </url>
+  <url>
+    <loc>/news/groww-flipback-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/groww-flipback-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/groww-flipback-2024" />
+  </url>
+  <url>
+    <loc>/news/agnikul-orbital-launch-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/agnikul-orbital-launch-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/agnikul-orbital-launch-2024" />
+  </url>
+  <url>
+    <loc>/news/walmart-flipkart-anniversary-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/walmart-flipkart-anniversary-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/walmart-flipkart-anniversary-2024" />
+  </url>
+  <url>
+    <loc>/news/jupiter-series-c-extension-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/jupiter-series-c-extension-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/jupiter-series-c-extension-2024" />
+  </url>
+  <url>
+    <loc>/news/bharatpe-phonepe-truce-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/bharatpe-phonepe-truce-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/bharatpe-phonepe-truce-2024" />
+  </url>
+  <url>
+    <loc>/news/phonepe-india-flip-2022-anniversary</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/phonepe-india-flip-2022-anniversary" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/phonepe-india-flip-2022-anniversary" />
+  </url>
+  <url>
+    <loc>/news/captain-fresh-series-d-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/captain-fresh-series-d-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/captain-fresh-series-d-2024" />
+  </url>
+  <url>
+    <loc>/news/sugar-cosmetics-series-e-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/sugar-cosmetics-series-e-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/sugar-cosmetics-series-e-2024" />
+  </url>
+  <url>
+    <loc>/news/indian-space-policy-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/indian-space-policy-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/indian-space-policy-2024" />
+  </url>
+  <url>
+    <loc>/news/sharechat-debt-restructure-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/sharechat-debt-restructure-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/sharechat-debt-restructure-2024" />
+  </url>
+  <url>
+    <loc>/news/postman-valuation-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/postman-valuation-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/postman-valuation-2024" />
+  </url>
+  <url>
+    <loc>/news/pharmeasy-rights-issue-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/pharmeasy-rights-issue-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/pharmeasy-rights-issue-2024" />
+  </url>
+  <url>
+    <loc>/news/figma-adobe-collapse-2024</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="/news/figma-adobe-collapse-2024" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="/news/figma-adobe-collapse-2024" />
+  </url>
+</urlset>

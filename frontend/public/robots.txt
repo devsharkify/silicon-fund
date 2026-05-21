@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Allow: /news/
+Allow: /epaper
+Allow: /videos
+Disallow: /admin
+Disallow: /api/
+Disallow: /reporter-login
+Disallow: /reporter/
+Disallow: /agents
+
+User-agent: Googlebot
+Allow: /
+Allow: /news/
+Crawl-delay: 1
+
+User-agent: Googlebot-News
+Allow: /
+Allow: /news/
+
+Sitemap: /sitemap.xml
+Sitemap: /rss.xml
+
+# Mint Street - Indian News Platform
